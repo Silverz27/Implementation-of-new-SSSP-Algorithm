@@ -203,7 +203,3 @@ None of the above invalidate the algorithm's recursive logic (`FindPivots → pi
 - Ran Duan, Jiayi Mao, Xiao Mao, Xinkai Shu, Longhui Yin. *Breaking the Sorting Barrier for Directed Single-Source Shortest Paths.* arXiv:2504.17033v2 [cs.DS], July 2025.
 - E. W. Dijkstra. *A note on two problems in connexion with graphs.* Numerische Mathematik, 1959.
 - R. Bellman. *On a routing problem.* Quarterly of Applied Mathematics, 1958.
-
-## License
-
-No license file is currently included in this repository. Add one (e.g. MIT, Apache-2.0) if you intend for others to reuse this code.
