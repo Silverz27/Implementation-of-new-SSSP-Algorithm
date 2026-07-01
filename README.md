@@ -64,7 +64,7 @@ The top-level call is `BMSSP(⌈log n / t⌉, ∞, {s})`, which (because the out
 
 ```
 .
-├── prj.txt                 # BMSSP implementation + Dijkstra benchmark driver (C++)
+├── main.cpp                # BMSSP implementation + Dijkstra benchmark driver (C++)
 └── README.md                # This file
 ```
 
