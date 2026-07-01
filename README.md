@@ -1,4 +1,3 @@
-# Implementation-of-new-SSSP-Algorithm
 # BMSSP — C++ Implementation of "Breaking the Sorting Barrier for Directed SSSP"
 
 A C++ implementation and empirical benchmark of the **Bounded Multi-Source Shortest Path (BMSSP)** algorithm from:
